@@ -1,6 +1,6 @@
 ## To ifinity and beyond... It`s about my procrastination
 <img src = "https://i.pinimg.com/736x/3b/38/fc/3b38fc3e93385301d8da5cc3885cfe7a.jpg" width = "300px" height = "350px">
-<img src = "Дыньки.jpg"
+<img src = "Дыньки.jpg " width = "200px" height = "250px">
 <!--
 **Stasyao37/Stasyao37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
