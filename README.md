@@ -1,4 +1,4 @@
-## Hi there 👋
+## To ifinity and beyond... It`s about my procrastination
 <img src = "https://i.pinimg.com/736x/98/90/f5/9890f5e977325d33ad29cab66a5eb49e.jpg" width = "200px" height = "350px">
 <!--
 **Stasyao37/Stasyao37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
